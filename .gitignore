@@ -3,3 +3,4 @@ Release/
 Sustain/Debug/
 Sustain/Release/
 *.opendb
+.vs/*
